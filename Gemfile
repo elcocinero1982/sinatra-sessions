@@ -10,6 +10,7 @@ gem 'shotgun'
 gem 'pry'
 gem 'require_all'
  gem 'activerecord', '5.2'
+ 
 
 group :development do
     gem 'shotgun'
